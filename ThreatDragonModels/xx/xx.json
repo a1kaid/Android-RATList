@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "description": "xx",
+    "owner": "xx",
+    "title": "xx"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "xxx",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "xxx"
+  }
+}
